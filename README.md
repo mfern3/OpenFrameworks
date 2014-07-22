@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [openFrameworks](http://openframeworks.cc/)
 ================
 
@@ -65,3 +66,7 @@ Versioning
 ----------
 openFrameworks uses [Semantic Versioning](http://semver.org/), although strict adherence will only come into effect at version 1.0.0.
 
+=======
+OpenFrameworks
+==============
+>>>>>>> d810f9fface3f0ea926dd35ed66349b85c7ab58d
